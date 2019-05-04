@@ -1,4 +1,4 @@
-# ex1
+# Github Markdown Example
 This is an example repository for first sight expirience with GitHub as part of academic course named "Work shop for data scientist"
 
 # About animal Marmot -אודות בעל החיים 
